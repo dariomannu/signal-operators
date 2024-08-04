@@ -1,0 +1,22 @@
+{
+  "name": "signal-operators",
+  "version": "0.1.0",
+  "description": "Operator functions for Signals - just like those in RxJS, but without Observables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "signal",
+    "signals",
+    "operators",
+    "reactivity",
+    "reactive-programming"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "signal-polyfill": "^0.1.1"
+  }
+}
